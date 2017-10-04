@@ -65,7 +65,7 @@ header nav {
 }
 
 main div {
-  min-height: 70vh;  
+  min-height: 70vh;
 }
 
 article {
@@ -78,6 +78,10 @@ article {
 
 article p, article ul {
   margin-bottom: 1.5em
+}
+
+article img {
+  max-width: 100%;
 }
 
 .avatar {
